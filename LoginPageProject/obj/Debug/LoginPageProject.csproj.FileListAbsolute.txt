@@ -4,3 +4,10 @@ C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\
 C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.csprojResolveAssemblyReference.cache
 C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.dll
 C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\bin\LoginPageProject.dll.config
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\bin\LoginPageProject.dll
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\bin\LoginPageProject.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\obj\Debug\LoginPageProject.csproj.AssemblyReference.cache
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\obj\Debug\LoginPageProject.csproj.CoreCompileInputs.cache
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\obj\Debug\LoginPageProject.dll
+C:\Users\Janidu Lankage\Documents\GitHub\LoginPageInAsp.Net\LoginPageProject\obj\Debug\LoginPageProject.pdb
